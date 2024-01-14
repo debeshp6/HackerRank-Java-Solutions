@@ -4,7 +4,7 @@ Welcome to my HackerRank Java Solutions repository! 🚀 Here, you'll find my so
 
 ## Getting Started
 
-Feel free to explore the solutions! You can clone the repository and run the C programs on your local machine. Each solution is self-contained in its respective file.
+Feel free to explore the solutions! You can clone the repository and run the Java programs on your local machine. Each solution is self-contained in its respective file.
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/debeshp6/HackerRank-Java-Solutions)
 
